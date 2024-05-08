@@ -1,8 +1,9 @@
 {
-    "name": "infyomlabs/swagger-generator",
-    "description": "Swagger Generator for InfyOm Laravel Generator",
+    "name": "vipmaa/swagger-generator",
+    "description": "Swagger Generator for InfyOm Laravel Generator for laravel 11",
     "keywords": [
         "laravel",
+        "laravel 11",
         "swagger",
         "templates",
         "generator"
